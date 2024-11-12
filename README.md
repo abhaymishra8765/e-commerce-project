@@ -2,13 +2,13 @@
 
 E-Commerce Project
 
-Overview
+#Overview
 
 This is a full-fledged E-commerce web application built with technology stack React, Node.js, MongoDB. 
 It allows users to browse products, add them to their cart, and complete purchases with an easy-to-use interface.
 
 
-Features
+#Features
 
 Product Catalog: Browse through various products categorized by type.
 
@@ -21,7 +21,8 @@ Authentication: User registration and login for a personalized shopping experien
 Admin Panel: Manage products, orders, and user data.
 
 
-Technology Stack
+
+#Technology Stack
 
 Frontend: React
 
